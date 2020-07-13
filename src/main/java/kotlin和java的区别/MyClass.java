@@ -1,5 +1,7 @@
 package kotlin和java的区别;
 
+import lesson2.类和对象.Person;
+
 public class MyClass {
     static final int SPRING = 0;
     static final int SUMMER = 0;
@@ -11,6 +13,9 @@ public class MyClass {
 
 class Preson {
     String name;
+
+    public void Person(){}
+
 }
 
 class Animal {
